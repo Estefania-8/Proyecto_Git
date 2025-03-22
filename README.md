@@ -1,2 +1,2 @@
 # Proyecto_Git
-proyecto para aprendizaje de Git 
+proyecto para aprendizaje Git 
